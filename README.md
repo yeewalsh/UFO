@@ -1,6 +1,6 @@
 # UFO
 Visualizing UFO sighting data with JavaScript, HTML, CSS and Bootstrap. Final webpage is displayed on a github Page at:
-https://yeewalsh.github.io/
+https://yeewalsh.github.io/yeewalsh.github.io-UFO/
 
 ## Overview of Project
 
